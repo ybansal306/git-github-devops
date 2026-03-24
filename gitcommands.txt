@@ -11,3 +11,6 @@
    echo "update" >> file.txt...
   git push --set-upstream origin master
   git push
+ cd ..
+dir/ls
+cd d:\
